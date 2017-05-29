@@ -1,0 +1,30 @@
+{
+  "name": "kodilla-bartosz",
+  "version": "1.0.0",
+  "description": "bartosz-marcol-project",
+  "main": "script.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MolasFlow/kodilla-marcol-1.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Bartosz Marcol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MolasFlow/kodilla-marcol-1/issues"
+  },
+  "homepage": "https://github.com/MolasFlow/kodilla-marcol-1#readme"
+}
