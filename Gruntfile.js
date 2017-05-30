@@ -23,6 +23,7 @@ module.exports = function(grunt) {
   			}]
   		}
   	},
+    
     watch: {
     scripts: {
         files: ['sass/*.sass'],
@@ -43,5 +44,5 @@ module.exports = function(grunt) {
 
   // Default task(s).
   
-  grunt.registerTask('default', ['sass', 'imagemin']);
+  grunt.registerTask('default', ['sass', 'imagemin', 'watch']);
 };
